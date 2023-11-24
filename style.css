@@ -6,7 +6,16 @@
     list-style: none;
     font-family: 'Playfair Display', serif;
 }
+body{
+    
+}
+.special-heading{
+    color:rgb(207, 119, 47) ;
+    font-size: 100px;
+    text-align: center;
+    font-weight: 800;
 
+}
 .header{
     /* background-image: url(../backgroud.jpg); */
     background-image:
@@ -49,3 +58,10 @@ ul li a:hover{
     color: rgb(173, 103, 24);
 }
 
+.container{
+  
+    width: 100%;
+    height: 100vh;
+      
+    /* background-image: url(back.jpg);*/
+}
